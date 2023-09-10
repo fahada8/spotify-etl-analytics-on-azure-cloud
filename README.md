@@ -1,5 +1,4 @@
 # Spotify Tracks Data Analytics and ETL on Azure Cloud 
-Project Overview
 
 This project revolves around ETL (Extract, Transform, Load), a process that turns raw data into valuable insights. We collect various data from Spotify, including song details, features, albums, artists, and popularity. Using Azure Databricks, Azure Data Lake Storage, and Azure Synapse Analytics, we organize this data and extract audio features. This helps us make informed decisions, spot music trends, and possibly predict the next big hit.
 

@@ -31,5 +31,5 @@ The heart of our project is ETL (Extract, Transform, Load) process, a careful pr
 
 ● Azure Synapse: Finally, Azure Synapse Analytics as our central repository for transformed data. It not only stores data efficiently but also enables real-time and historical analysis. Azure Synapse supports the creation of data pipelines, machine learning models, and data visualizations, forming the foundation for actionable insights from the music data we've collected and transformed. It's where the data melody truly comes to life.
 
-![Alt text](image link)
+![Alt text](pipeline_architecture.png)
 
